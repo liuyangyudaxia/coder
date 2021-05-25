@@ -62,7 +62,7 @@ public class HttpClient {
     /**
      * Post请求
      * @param httpUrl 请求地址
-     * @param param 请求参数
+     * @param param   请求参数
      * @return 返回结果
      */
     public static String doPost(String httpUrl, String param) {

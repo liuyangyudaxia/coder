@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractFactory.product;
 
 /**
  * 具体产品-嘛

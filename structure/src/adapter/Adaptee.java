@@ -1,9 +1,9 @@
 package adapter;
 
 /**
- * 适配者接口
+ * 适配者
+ * 被访问和适配的现存组件库中的组件接口
  * @author yuwei
- * @date 2021/5/30 15:19
  */
 public class Adaptee {
     public void specificRequest() {

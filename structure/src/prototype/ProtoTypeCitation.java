@@ -2,6 +2,7 @@ package prototype;
 
 /**
  * 原型设计模式测试类
+ * 可简单理解为copy生成新类实例
  * @author yuwei
  * @date 2021/5/25 22:37
  */

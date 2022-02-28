@@ -5,8 +5,8 @@ import abstractFactory.factory.Factory1;
 import abstractFactory.factory.Factory2;
 
 /**
+ * 工厂模式demo
  * @author yuwei
- * @date 2022/2/17 16:23
  */
 public class Demo {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
 package bridge;
 
 /**
+ * 扩展抽象化角色
  * @author yuwei
  * @date 2021/5/30 15:44
  */

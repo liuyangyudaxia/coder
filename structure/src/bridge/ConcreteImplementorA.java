@@ -1,7 +1,7 @@
 package bridge;
 
 /**
- * 实现化角色
+ * 具体实现化角色
  * @author yuwei
  * @date 2021/5/30 15:42
  */

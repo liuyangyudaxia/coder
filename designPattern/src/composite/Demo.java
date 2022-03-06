@@ -4,7 +4,7 @@ package composite;
  * @author yuwei
  * @date 2021/5/30 17:24
  */
-public class CompositePatter {
+public class Demo {
     public static void main(String[] args) {
         Component c0 = new Branch();
         Component c1 = new Branch();

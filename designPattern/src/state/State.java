@@ -6,5 +6,5 @@ package state;
  * @date 2021/5/31 22:09
  */
 public abstract class State {
-    public abstract void Handle(Context context);
+    public abstract void handle(Context context);
 }

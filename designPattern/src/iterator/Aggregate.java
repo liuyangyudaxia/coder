@@ -10,5 +10,5 @@ public interface Aggregate {
 
     void remove(Object object);
 
-    public Iterator getIterator();
+    Iterator getIterator();
 }

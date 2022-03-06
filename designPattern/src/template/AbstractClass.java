@@ -6,12 +6,9 @@ package template;
  * @date 2021/5/30 17:33
  */
 public abstract class AbstractClass {
-    public void TemplateMethod() {
-
-    }
-
-    public void SpecificMethod() {
-        System.out.println("抽象类中具体方法");
+    public void templateMethod() {
+        abstractMethod1();
+        abstractMethod2();
     }
 
     public abstract void abstractMethod1();

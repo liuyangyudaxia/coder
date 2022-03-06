@@ -1,4 +1,4 @@
-package Mediator;
+package mediator;
 
 /**
  * 具体同事类

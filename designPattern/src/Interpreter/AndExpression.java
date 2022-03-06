@@ -6,16 +6,17 @@ package Interpreter;
  * @date 2021/5/31 23:27
  */
 public class AndExpression implements Expression {
-    private Expression city = null;
-    private Expression person = null;
+    private final Expression city;
+    private final Expression person;
 
     public AndExpression(Expression city, Expression person) {
         this.city = city;
         this.person = person;
     }
 
+    @Override
     public boolean interpret(String info) {
-        String s[] = info.split("的");
+        String[] s = info.split("的");
         return city.interpret(s[0]) && person.interpret(s[1]);
     }
 }

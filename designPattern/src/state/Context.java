@@ -24,6 +24,6 @@ public class Context {
      * 对请求进行处理
      */
     public void handle() {
-        state.Handle(this);
+        state.handle(this);
     }
 }

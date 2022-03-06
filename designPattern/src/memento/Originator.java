@@ -1,11 +1,14 @@
 package memento;
 
 /**
- * 发起人
+ * 发起人-备忘录信息来源
  * @author yuwei
  * @date 2021/5/31 23:19
  */
 public class Originator {
+    /**
+     * 信息
+     */
     private String state;
 
     public String getState() {

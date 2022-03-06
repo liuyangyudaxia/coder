@@ -4,7 +4,7 @@ package state;
  * @author yuwei
  * @date 2021/5/31 22:16
  */
-public class StatePatternClient {
+public class Demo {
     public static void main(String[] args) {
         Context context = new Context();
         context.handle();

@@ -1,4 +1,4 @@
-package Mediator;
+package mediator;
 
 /**
  * 抽象中介类
